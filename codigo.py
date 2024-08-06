@@ -1,2 +1,2 @@
 nombre = "Lulu"
-print(nombre)
+print("Hola " + nombre " ¿Como estas?")
